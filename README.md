@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student spec
 ## 🚀 About Me
 - 🧑‍💻 Software Developer with experience in **C++, Python, Java, and Web Development**.
 - 💡 Enthusiastic about **AI/ML, Product Development, and Competitive Coding**.
-- 🏆 Solved **500+ coding problems** across platforms.
+- 🏆 Solved **800+ coding problems** across platforms.
 - 📚 2⭐ on **CodeChef**.
-- 🌟 Solved **300+ problems on LeetCode** with a rating of **1550+**.
+- 🌟 Solved **500+ problems on LeetCode** with a rating of **1700+**.
 - 🎉 **9th place** in CSM Department Coding Competitions.
 
 ## 🔧 Technologies & Tools
