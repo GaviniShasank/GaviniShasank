@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student spec
 - 🏆 Solved **800+ coding problems** across platforms.
 - 📚 2⭐ on **CodeChef**.
 - 🌟 Solved **500+ problems on LeetCode** with a rating of **1700+**.
-- 🎉 **9th place** in CSM Department Coding Competitions.
 
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
