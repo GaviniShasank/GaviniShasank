@@ -1,6 +1,6 @@
 # Hi there, I'm Shasank Gavini 👋
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science** student specializing in **Artificial Intelligence and Machine Learning** at **CMR College of Engineering & Technology**. I enjoy solving problems, building products, and contributing to the tech community.
+Welcome to my GitHub profile! I'm a passionate **Computer Science** student specializing in **Artificial Intelligence and Machine Learning** . I enjoy solving problems, building products, and contributing to the tech community.
 
 ## 🚀 About Me
 - 🧑‍💻 Software Developer with experience in **C++, Python, Java, and Web Development**.
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student spec
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)](https://github.com/GaviniShasank)
 
 ## 📬 Contact
-- 📧 **Email**: shasankgavini16@gmail.com
+- 📧 **Email**: gavini.shasank@caeliusconsulting.com
 - 🌐 **Website**: [shasankgavini.com](https://gavinishasank.github.io/Portfolio/)
 
 ### Thanks for visiting my profile! 😊
